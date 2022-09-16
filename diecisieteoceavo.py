@@ -1,0 +1,7 @@
+print('a')
+print('b\tc')
+print('d\te\tf')
+print('g\th\ti\tj')
+print('k\tl\tm')
+print('n\to')
+print('p')

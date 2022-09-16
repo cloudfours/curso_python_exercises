@@ -1,0 +1,5 @@
+a=int(input('ingrese valor a: '))
+b=int(input('ingrese valor b: '))
+c=int(input('ingrese valor c: '))
+ecuacion =( a+b+(c*a))/b*(2*a+3*a)
+print(ecuacion)
