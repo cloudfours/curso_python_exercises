@@ -1,0 +1,5 @@
+biografia = input('escriba se biografia: ')
+caracteres = len(biografia)
+print(f'cantidad de caracteres: {caracteres}')
+palabras = biografia.split()
+print(len(palabras))

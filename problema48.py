@@ -1,7 +1,9 @@
 a = int(input('valor a: '))
 b= int(input('valor b: '))
+n = b
+b=a
+a=n
 
-a=b
-n=b
 
-print(n,b)
+
+print(a,b)
