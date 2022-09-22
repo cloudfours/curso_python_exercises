@@ -1,0 +1,6 @@
+name=input('ingrese su nombre: ')
+f_name=input('ingrese nombre del padre: ')
+dni = input('ingrese numero de identificacion: ')
+edad = int(input('ingrese edad: '))
+contact = int(input('ingrese numero de celular: '))
+print(f'su nombre: {name}, nombre del padre: {f_name}, dni : {dni}, edad: {edad}, numero telefonico: {contact}')
