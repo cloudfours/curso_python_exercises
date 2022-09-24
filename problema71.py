@@ -1,0 +1,5 @@
+entrada = input('ingrese secuencia')
+caracteres = len(entrada)
+palabras = entrada.split()
+cantidad = len(palabras)
+print(f'cantidad de caracteres: {caracteres} cantidad de palabras: {cantidad}')
